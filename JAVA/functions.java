@@ -86,7 +86,7 @@
 
 
 // }
-import java.util.* ;
+
 public class functions{
     public static boolean isPrime(int n){
         if (n==2){
