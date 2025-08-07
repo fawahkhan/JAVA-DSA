@@ -1,3 +1,4 @@
+package Functions;
 public class conversions {
     //binary to decimal conversion
     public static void binToDec(int binNum){

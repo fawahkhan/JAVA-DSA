@@ -1,3 +1,4 @@
+package Patterns;
 /*
 
 to print hollow rectangle pattern
