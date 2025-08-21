@@ -53,9 +53,6 @@ package Arrays;
 //lecture 4 starting --passing arrays as argument 
 //arrays are passed as reference , meaning the small changes in a function will reflect in main function too
 
-
-
-import java.util.* ;
 public class ArraysCC {
     //make a function which takes arrays as arguments
     public static void update(int marks[]){
