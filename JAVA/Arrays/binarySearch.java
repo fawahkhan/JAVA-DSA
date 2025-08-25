@@ -38,3 +38,15 @@ public class binarySearch {
     }
     
 }
+
+/*
+//TIME COMPLEITY
+//size of array keeps on decreasing till the size of array gets to one
+iteration ---> n  ==> n/2^0
+iteration ---> n/2 ==> n/2^1
+iteration --->n/4 ==> n/2^2  ----it will go till n=1 which is n/2^k = 1 at kth iteration 
+iteration ---> n/8
+  
+time complexity will be log (n) 
+ time complexity of 0(n) is better than O(log n)
+ */
